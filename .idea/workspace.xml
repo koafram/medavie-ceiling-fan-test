@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf3c55e-1000-488d-b91c-4c26abb0b069" name="Changes" comment="Initial commit to GitHub">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/contexts/FanContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/contexts/FanContextImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/FanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/FanServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/states/FanState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/states/OffState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/states/Speed1State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/states/Speed2State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/states/Speed3State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

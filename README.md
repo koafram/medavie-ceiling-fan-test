@@ -6,3 +6,7 @@ This project implements a simple ceiling fan with these characteristics:
   - One reverses the direction of the fan at the current speed setting. Once the direction has been reversed, it remains reversed as we cycle through the speed settings, until reversed again.
 
 It assumes the unit is always powered (no wall switch).
+
+Once the program is running, operate the fan with:
+- 'i' or '+' to increase the speed of the fan
+- 'r' to reverse the direction of the fan
